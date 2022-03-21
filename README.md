@@ -1,5 +1,3 @@
-![Screenshot from 2022-03-21 16-14-54](https://user-images.githubusercontent.com/92577132/159258944-6f5c283b-18bf-4353-8933-018c0b0916ae.png)
-# lab4_6
 University task
                                                                 
                                                                 Description
@@ -18,8 +16,25 @@ Follow the instructions and answer the questions in terminal
 
 ![Screenshot from 2022-03-21 16-15-11](https://user-images.githubusercontent.com/92577132/159258986-c0687cb1-88fc-4f59-acb8-611e4d9b0f2b.png)
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Screenshot from 2022-03-21 16-16-59](https://user-images.githubusercontent.com/92577132/159259164-bfc23ad0-5749-4348-bdcb-52432cc2aa8b.png)
 
-![Uploading Screenshot from 2022-03-21 16-19-15.png…]()
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot from 2022-03-21 16-19-15](https://user-images.githubusercontent.com/92577132/159260234-049eea94-7335-495b-9963-9d2470efc5d1.png)
+
+
+![Screenshot from 2022-03-21 16-19-53](https://user-images.githubusercontent.com/92577132/159260009-9fb0bea2-fa44-4563-b1d9-ab2bc93de6ce.png)
+
+
+![Screenshot from 2022-03-21 16-20-48](https://user-images.githubusercontent.com/92577132/159260028-b80ebe27-94b7-48ec-ae71-b3cc3d3c77e8.png)
+                                                        
+                                                        Information 
+ 
+ Here you can change streets, characters, items:
+ 
+ ![Screenshot from 2022-03-21 16-26-01](https://user-images.githubusercontent.com/92577132/159260618-ede5c296-16b5-44bb-a2a5-b2a419b193fa.png)
+
 
 
